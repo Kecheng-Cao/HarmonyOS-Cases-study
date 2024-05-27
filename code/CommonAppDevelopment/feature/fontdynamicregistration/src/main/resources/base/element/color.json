@@ -1,0 +1,40 @@
+{
+  "color": [
+    {
+      "name": "fontdynamicregistration_start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "fontdynamicregistration_global_bg",
+      "value": "#ff3f89fd"
+    },
+    {
+      "name": "fontdynamicregistration_gery_bg",
+      "value": "#ffefefef"
+    },
+    {
+      "name": "fontdynamicregistration_progress_normal",
+      "value": "#ff3f89fd"
+    },
+    {
+      "name": "fontdynamicregistration_progress_downloading",
+      "value": "#ffefefef"
+    },
+    {
+      "name": "fontdynamicregistration_progress_bg_normal",
+      "value": "#ff3f89fd"
+    },
+    {
+      "name": "fontdynamicregistration_progress_bg_downloading",
+      "value": "#ffffffff"
+    },
+    {
+      "name": "fontdynamicregistration_progress_font_normal",
+      "value": "#ffffffff"
+    },
+    {
+      "name": "fontdynamicregistration_progress_font_downloading",
+      "value": "#ff182431"
+    }
+  ]
+}

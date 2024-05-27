@@ -1,0 +1,64 @@
+{
+  "string": [
+    {
+      "name": "multiple_files_download_text_width",
+      "value": "40%"
+    },
+    {
+      "name": "multiple_files_download_relative_container_width",
+      "value": "100%"
+    },
+    {
+      "name": "multiple_files_download_relative_container_height",
+      "value": "30%"
+    },
+    {
+      "name": "multiple_files_download_row_width",
+      "value": "50%"
+    },
+    {
+      "name": "multiple_files_download_row_text_width",
+      "value": "100%"
+    },
+    {
+      "name": "multiple_files_download_outer_row_width",
+      "value": "100%"
+    },
+    {
+      "name": "multiple_files_download_transfer_list",
+      "value": "传输列表"
+    },
+    {
+      "name": "multiple_files_download_queue",
+      "value": "下载队列  "
+    },
+    {
+      "name": "multiple_files_download_completed",
+      "value": "下载已完成"
+    },
+    {
+      "name": "multiple_files_download_function_only_display_purposes",
+      "value": "功能仅做展示"
+    },
+    {
+      "name": "multiple_files_download_list",
+      "value": "下载列表"
+    },
+    {
+      "name": "multiple_files_download_file_upload",
+      "value": "文件上传"
+    },
+    {
+      "name": "multiple_files_download_album_backup",
+      "value": "相册备份"
+    },
+    {
+      "name": "multiple_files_download_row_height",
+      "value": "30%"
+    },
+    {
+      "name": "multiple_files_download_list_width",
+      "value": "100%"
+    }
+  ]
+}

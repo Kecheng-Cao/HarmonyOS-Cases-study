@@ -1,0 +1,20 @@
+{
+  "color": [
+    {
+      "name": "bar_chart_background_color",
+      "value": "#DFDFDF"
+    },
+    {
+      "name": "bar_chart_border_color",
+      "value": "#317AF7"
+    },
+    {
+      "name": "bar_chart_health_divider",
+      "value": "#2c182431"
+    },
+    {
+      "name": "bar_chart_health_bg_color",
+      "value": "#99000000"
+    }
+  ]
+}

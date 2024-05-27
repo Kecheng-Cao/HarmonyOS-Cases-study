@@ -1,0 +1,12 @@
+{
+  "integer": [
+    {
+      "name": "image_compression_font_size",
+      "value": 20
+    },
+    {
+      "name": "image_compression_column_padding",
+      "value": 20
+    }
+  ]
+}

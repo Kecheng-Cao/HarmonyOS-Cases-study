@@ -1,0 +1,44 @@
+{
+  "integer": [
+    {
+      "name": "styled_text_other_function_margin_top",
+      "value": 14
+    },
+    {
+      "name": "styled_text_other_function_image_width",
+      "value": 16
+    },
+    {
+      "name": "styled_text_other_function_text_margin_left",
+      "value": 5
+    },
+    {
+      "name": "styled_text_profile_height",
+      "value": 48
+    },
+    {
+      "name": "styled_text_profile_image_width",
+      "value": 48
+    },
+    {
+      "name": "styled_text_profile_image_right",
+      "value": 16
+    },
+    {
+      "name": "styled_text_message_media",
+      "value": 240
+    },
+    {
+      "name": "styled_text_video_link_icon_height",
+      "value": 16
+    },
+    {
+      "name": "styled_text_link_background_change_delay",
+      "value": 100
+    },
+    {
+      "name": "styled_text_list_divider_width",
+      "value": 1
+    }
+  ]
+}

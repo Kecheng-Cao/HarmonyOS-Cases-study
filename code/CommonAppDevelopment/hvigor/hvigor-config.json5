@@ -1,0 +1,7 @@
+{
+	"hvigorVersion": "file:../dependencies/hvigor-4.3.0.tgz",
+	"dependencies": {
+		"@ohos/hvigor-ohos-plugin": "file:../dependencies/hvigor-ohos-plugin-4.3.0.tgz",
+		"@app/ets-generator": "file:../libs/autobuildrouter-1.0.0.tgz"
+	}
+}

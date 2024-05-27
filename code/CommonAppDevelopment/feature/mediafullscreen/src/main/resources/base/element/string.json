@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "media_full_screen_layout_100",
+      "value": "100%"
+    },
+    {
+      "name": "media_full_screen_video_width",
+      "value": "100%"
+    },
+    {
+      "name": "media_full_screen_video_height",
+      "value": "100%"
+    },
+    {
+      "name": "media_full_screen_harmony_hei_ti",
+      "value": "HarmonyHeiTi"
+    },
+    {
+      "name": "media_full_screen_harmony_hei_ti_medium",
+      "value": "HarmonyHeiTi-Medium"
+    }
+  ]
+}

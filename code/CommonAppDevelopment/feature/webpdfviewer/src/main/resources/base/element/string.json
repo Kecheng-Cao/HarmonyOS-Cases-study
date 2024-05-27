@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "web_pdf_viewer_tab_index_one_title",
+      "value": "预览本地PDF文件"
+    },
+    {
+      "name": "web_pdf_viewer_tab_index_two_title",
+      "value": "预览网络PDF文件"
+    },
+    {
+      "name": "web_pdf_viewer_progress_width",
+      "value": "100%"
+    },
+    {
+      "name": "web_pdf_viewer_tab_content_width",
+      "value": "100%"
+    },
+    {
+      "name": "web_pdf_viewer_bar_width",
+      "value": "100%"
+    }
+  ]
+}

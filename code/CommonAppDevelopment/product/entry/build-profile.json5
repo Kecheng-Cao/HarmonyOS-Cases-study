@@ -1,0 +1,173 @@
+/*
+ * Copyright (c) 2024 Huawei Device Co., Ltd.
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *     http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+{
+  "apiType": "stageMode",
+  "buildOption": {
+    "arkOptions": {
+      // TODO：知识点：动态路由中使用了动态import变量表达式的能力，需要在这里配置模块名，和oh-package.json5中dependencies下面配置的模块名相同。
+      "runtimeOnly": {
+        "sources": [
+        ],
+        "packages": [
+          "@ohos/eventpropagation",
+          "@ohos/nativerawfile",
+          "@ohos/customtabbar",
+          "@ohos/secondarylinkage",
+          "@ohos/barchart",
+          "@ohos/addressexchange",
+          "@ohos/imageviewer",
+          "@ohos/pendingitems",
+          "@ohos/gbktranscoding",
+          "@ohos/handletabs",
+          "@ohos/modalwindow",
+          "@ohos/slidetohideanddisplace",
+          "@ohos/navigationparametertransfer",
+          "@ohos/akiusepractice",
+          "@ohos/variablewatch",
+          "@ohos/photopickandsave",
+          "@ohos/pageturninganimation",
+          "@ohos/fitfordarkmode",
+          "@ohos/marquee",
+          "@ohos/pulltorefreshnews",
+          "@ohos/verifycode",
+          "@ohos/nativeprogressnotify",
+          "@ohos/xcomponentvsync",
+          "@ohos/vibrateeffect",
+          "@ohos/swipersmoothvariation",
+          "@ohos/applicationexception",
+          "@ohos/navigationbarchange",
+          "@ohos/mediafullscreen",
+          "@ohos/citysearch",
+          "@ohos/waterripples",
+          "@ohos/foldablescreencases",
+          "@ohos/imagecomment",
+          "@ohos/searchcomponent",
+          "@ohos/nativesavepictosandbox",
+          "@ohos/componentstack",
+          "@ohos/customview",
+          "@ohos/dragandexchange",
+          "@ohos/customcalendarpickerdialog",
+          "@ohos/decompressfile",
+          "@ohos/paintcomponent",
+          "@ohos/shortvideo",
+          "@ohos/digitalscrollanimation",
+          "@ohos/lottieview",
+          "@ohos/votingcomponent",
+          "@ohos/webgetcameraimage",
+          "@ohos/sidebaranimation",
+          "@ohos/imagecompression",
+          "@ohos/imageenableanalyzer",
+          "@ohos/chinesetopinyin",
+          "@ohos/bottomdrawerslidecase",
+          "@ohos/expandtitle",
+          "@ohos/listslidetohistory",
+          "@ohos/pageloading",
+          "@ohos/hilogmonitormanagement",
+          "@ohos/bigfilecopy",
+          "@ohos/diggingholescreen",
+          "@ohos/dragtoswitchpictures",
+          "@ohos/listitemoverflow",
+          "@ohos/componentinstancesharedinpages",
+          "@ohos/customsafekeyboard",
+          "@ohos/databaseupgrade",
+          "@ohos/listitemoverflow",
+          "@ohos/transitionanimation",
+          "@ohos/imagegridlayout",
+          "@ohos/dynamicattributes",
+          "@ohos/etswrapper",
+          "@ohos/handwritingtoimage",
+          "@ohos/indicatorbelowswiper",
+          "@ohos/multimodaltransion",
+          "@ohos/multiplefilesdownload",
+          "@ohos/nativeembed",
+          "@ohos/sideslipintercept",
+          "@ohos/webpdfviewer",
+          "@ohos/imagetheft",
+          "@ohos/cardswiperanimation",
+          "@ohos/fontdynamicregistration",
+          "@ohos/customscan",
+          "@ohos/imagedepthcopy",
+          "@ohos/pageflip",
+          "@ohos/videocache",
+          "@ohos/iconmaincolor",
+          "@ohos/effectKit",
+          "@ohos/highlightguide",
+          "@ohos/wordrecognition",
+          "@ohos/analogclock",
+          "@ohos/webcustompressmenu",
+          "@ohos/bottompanelslide",
+          "@ohos/danmakuplayer",
+          "@ohos/listexchange",
+          "@ohos/tabcontentoverflow",
+          "@ohos/chatwithexpression",
+          "@ohos/floatwindow",
+          "@ohos/gridexchange",
+          "@ohos/miniplayeranimation",
+          "@ohos/refreshtimeline",
+          "@ohos/webpagesnapshot",
+          "@ohos/navigationinterceptor",
+          "@ohos/voicerecordynamiceffect",
+          "@ohos/blendmode",
+          "@ohos/secondfloorloadanimation",
+          "@ohos/styledtext",
+          "@ohos/customdialog",
+          "@ohos/textexpand",
+          "@ohos/imageresizable",
+          "@ohos/swipercomponent",
+          "@ohos/fadingedge",
+          "@ohos/textoverflow",
+          "@ohos/watermark",
+          "@ohos/customstepper",
+        ]
+      }
+    }
+  },
+  "targets": [
+    {
+      "name": "default",
+      "runtimeOS": "HarmonyOS",
+      "source": {
+        // 定义stage模型中平板版本target的pages源码文件，可根据需求选择区别于默认版本的源码文件。
+        "pages": [
+          "pages/EntryView"
+        ]
+      }
+    },
+    // TODO: 知识点：配置target为平板版本的打包规则
+    {
+      // 平板版本target名称。
+      "name": "tablet_target",
+      "runtimeOS": "HarmonyOS",
+      "config": {
+        "deviceType": [  // 定义tablet版本支持的设备类型为tablet，支持的设备类型必须在config.json或module.json5中已经定义。
+          "tablet"
+        ]
+      },
+      "source": {
+        // 定义stage模型中tablet版本target的pages源码文件，可根据需求选择区别于默认版本的源码文件。
+        "pages": [
+          "tablet/pages/EntryView"
+        ]
+      },
+      "resource": {
+        // 定义平板版本版本使用的资源文件目录，该功能在API 9及以上版本的工程中生效，可根据需求选择区别于默认版本的资源文件。
+        "directories": [
+          "./src/main/resources"
+        ]
+      }
+    }
+  ]
+}

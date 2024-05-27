@@ -1,0 +1,52 @@
+{
+  "integer": [
+    {
+      "name": "voice_record_dynamic_effect_font_size_text",
+      "value": 18
+    },
+    {
+      "name": "voice_record_dynamic_effect_height_text",
+      "value": 50
+    },
+    {
+      "name": "voice_record_dynamic_effect_height_image",
+      "value": 24
+    },
+    {
+      "name": "voice_record_dynamic_effect_width_image",
+      "value": 24
+    },
+    {
+      "name": "voice_record_dynamic_effect_radius_row",
+      "value": 24
+    },
+    {
+      "name": "voice_record_dynamic_effect_margin_top",
+      "value": 12
+    },
+    {
+      "name": "voice_record_dynamic_effect_radius_column",
+      "value": 8
+    },
+    {
+      "name": "voice_record_dynamic_effect_margin_left",
+      "value": 10
+    },
+    {
+      "name": "voice_record_dynamic_effect_height_row",
+      "value": 40
+    },
+    {
+      "name": "voice_record_dynamic_effect_padding_row",
+      "value": 20
+    },
+    {
+      "name": "voice_record_dynamic_effect_height_button",
+      "value": 30
+    },
+    {
+      "name": "voice_record_dynamic_effect_width_button",
+      "value": 250
+    }
+  ]
+}

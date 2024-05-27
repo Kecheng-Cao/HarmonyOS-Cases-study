@@ -1,0 +1,28 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "通用开发范例"
+    },
+    {
+      "name": "no_network_prompt_msg",
+      "value": "此功能需联网使用"
+    },
+    {
+      "name": "app_exit_toast_msg",
+      "value": "再滑一次退出"
+    },
+    {
+      "name": "entry_half_size",
+      "value": "50%"
+    }
+  ]
+}

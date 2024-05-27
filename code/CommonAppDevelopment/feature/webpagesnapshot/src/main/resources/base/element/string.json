@@ -1,0 +1,52 @@
+{
+  "string": [
+    {
+      "name": "web_snap_full_size",
+      "value": "100%"
+    },
+    {
+      "name": "web_snap_page_title",
+      "value": "Web组件长截图"
+    },
+    {
+      "name": "web_snap_snapshot_button_title",
+      "value": "截图"
+    },
+    {
+      "name": "web_snap_finish_load_prompt",
+      "value": "网页加载完成"
+    },
+    {
+      "name": "web_snap_concat_image",
+      "value": "正在生成截图..."
+    },
+    {
+      "name": "web_snap_saved_to_album",
+      "value": "已保存至相册。"
+    },
+    {
+      "name": "web_snap_button_backgrounp_color",
+      "value": "#00adadad"
+    },
+    {
+      "name": "web_snap_window_bottom_backgrounp_color",
+      "value": "#70adadad"
+    },
+    {
+      "name": "web_snap_text_popup_backgroundcolor",
+      "value": "#bea3a3a3"
+    },
+    {
+      "name": "web_snap_prompt_snapshotting",
+      "value": "正在截图，请勿操作..."
+    },
+    {
+      "name": "web_snap_popup_prompt_snapshotting",
+      "value": "正在截图，请稍等..."
+    },
+    {
+      "name": "web_snap_cancel",
+      "value": "取消"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "color": [
+    {
+      "name": "entry_start_window_background",
+      "value": "#B3CFFF"
+    },
+    {
+      "name": "main_background_color",
+      "value": "#F1F1F1"
+    },
+    {
+      "name": "helper_bindsheet_bgc",
+      "value": "#303643"
+    },
+    {
+      "name": "nav_destination_title_image_background_color",
+      "value": "#E5E7E9"
+    }
+  ]
+}

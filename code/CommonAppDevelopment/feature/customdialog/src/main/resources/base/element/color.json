@@ -1,0 +1,12 @@
+{
+  "color": [
+    {
+      "name": "custom_dialog_packet_color",
+      "value": "#ffd02c16"
+    },
+    {
+      "name": "custom_dialog_packet_color2",
+      "value": "#fff3cc3f"
+    }
+  ]
+}

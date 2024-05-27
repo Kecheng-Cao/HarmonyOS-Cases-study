@@ -1,0 +1,68 @@
+{
+  "string": [
+    {
+      "name": "voice_record_dynamic_effect_width_full",
+      "value": "100%"
+    },
+    {
+      "name": "voice_record_dynamic_effect_height_full",
+      "value": "100%"
+    },
+    {
+      "name": "voice_record_dynamic_effect_top_fig",
+      "value": "上划取消"
+    },
+    {
+      "name": "voice_record_dynamic_effect_button",
+      "value": "按住说话"
+    },
+    {
+      "name": "voice_record_dynamic_effect_width_half",
+      "value": "50%"
+    },
+    {
+      "name": "voice_record_dynamic_effect_app_name",
+      "value": "需要权限"
+    },
+    {
+      "name": "voice_record_dynamic_effect_width_nine",
+      "value": "90%"
+    },
+    {
+      "name": "voice_record_dynamic_effect_friend",
+      "value": "群聊"
+    },
+    {
+      "name": "voice_record_dynamic_effect_color_stack",
+      "value": "#b92b2b2b"
+    },
+    {
+      "name": "voice_record_dynamic_effect_send_message",
+      "value": "松开发送"
+    },
+    {
+      "name": "voice_record_dynamic_effect_talk_info",
+      "value": "你在干嘛"
+    },
+    {
+      "name": "voice_record_dynamic_effect_talk_message",
+      "value": "？？？"
+    },
+    {
+      "name": "voice_record_dynamic_effect_talk_message_one",
+      "value": "好多人一起"
+    },
+    {
+      "name": "voice_record_dynamic_effect_talk_message_two",
+      "value": "有时间吗"
+    },
+    {
+      "name": "voice_record_dynamic_effect_talk_message_thr",
+      "value": "去哪里玩"
+    },
+    {
+      "name": "voice_record_dynamic_effect_talk_message_four",
+      "value": "自驾周边游"
+    }
+  ]
+}

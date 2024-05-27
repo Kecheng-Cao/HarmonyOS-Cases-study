@@ -1,0 +1,61 @@
+{
+  "string": [
+    {
+      "name": "danmaku_player_video_url",
+      "value": "https://assets.mixkit.co/videos/preview/mixkit-white-sand-beach-background-1564-large.mp4"
+    },
+    {
+      "name": "danmaku_player_screen_height_vertical",
+      "value": "30%"
+    },
+    {
+      "name": "danmaku_player_screen_height_horizontal",
+      "value": "100%"
+    },
+    {
+      "name": "danmaku_player_video_title_fontsize",
+      "value": "10vp"
+    },
+    {
+      "name": "danmaku_player_empty_width",
+      "value": "33.33%"
+    },
+    {
+      "name": "danmaku_player_slider_length_horizontal",
+      "value": "88%"
+    },
+    {
+      "name": "danmaku_player_slider_length_vertical",
+      "value": "75%"
+    },
+    {
+      "name": "danmaku_player_total_time_fontsize",
+      "value": "35px"
+    },
+    {
+      "name": "danmaku_player_send_danmaku_width",
+      "value": "60%"
+    },
+    {
+      "name": "danmaku_player_send_danmaku_border_radius",
+      "value": "20px"
+    },
+    {
+      "name": "danmaku_player_send_danmaku_fontsize",
+      "value": "40px"
+    },
+    {
+      "name": "danmaku_player_send_danmaku_margin",
+      "value": "10px"
+    },
+    {
+      "name": "danmaku_player_toggle_width",
+      "value": "80px"
+    },
+    {
+      "name": "danmaku_player_toggle_height",
+      "value": "60px"
+    }
+
+  ]
+}
